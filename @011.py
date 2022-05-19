@@ -1,5 +1,5 @@
 *Stdout*
-`# Leech Settings V2 Implement By - @VarnaX-279
+<code># Leech Settings V2 Implement By - @VarnaX-279
 
 from os import remove as osremove, path as ospath, mkdir
 from threading import Thread
@@ -124,4 +124,4 @@ dispatcher.add_handler(leech_set_handler)
 dispatcher.add_handler(but_set_handler)
 dispatcher.add_handler(set_thumbnail_handler)
 
-`
+</code>
